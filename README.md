@@ -144,8 +144,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![GIT](4.1.jpg)
-![GIT](4.2.jpg)
+![1](4.1.jpg)
+![2](4.2.jpg)
 
 ## Result:
 Thus a Simple Android Application to create your own content providers get contact details using Android Studio was developed and executed successfully.
